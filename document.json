@@ -1,0 +1,12 @@
+{
+ "elements":[
+    {
+      "text": "Hello, world",
+      "action": ""
+    },
+    {
+      "text": "Hello, button",
+      "action": "printText"
+    }
+   ]
+}
